@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t}from"./chunks/framework.xc0kXgV-.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"javascript/Upgrade.md","filePath":"javascript/Upgrade.md","lastUpdated":null}'),r={name:"javascript/Upgrade.md"};function s(p,c,o,d,n,i){return e(),t("div")}const m=a(r,[["render",s]]);export{l as __pageData,m as default};
